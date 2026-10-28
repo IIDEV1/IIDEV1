@@ -1,41 +1,26 @@
-<img src="hero.svg" width="100%" alt="Islam — web development, mobile apps and exploring machine learning. Build. Learn. Iterate." />
+<picture><source media="(prefers-color-scheme: dark)" srcset="ethno-dark-header.svg"><img src="ethno-light-header.svg" width="100%" alt="Islam — Web developer · Flutter · Exploring ML. Kyrgyz mountains, a red sun, a yurt and galloping horses."></picture>
 
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="ethno-dark-s-about.svg"><img src="ethno-light-s-about.svg" width="100%" alt="About me"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="ethno-dark-terminal.svg"><img src="ethno-light-terminal.svg" width="100%" alt="Islam. Web and mobile development. Oyno: Flutter and Dart. E-SU Frontend: React and TypeScript. Learning ML with Python, data analysis and classification."></picture>
+
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="ethno-dark-s-stack.svg"><img src="ethno-light-s-stack.svg" width="100%" alt="Stack"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="ethno-dark-stack.svg"><img src="ethno-light-stack.svg" width="100%" alt="Web: React, TypeScript, JavaScript, HTML, CSS. Mobile: Flutter, Dart. Learning ML: Python, Pandas, Jupyter. Tools: Git, Vite, React Query."></picture>
+
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="ethno-dark-s-projects.svg"><img src="ethno-light-s-projects.svg" width="100%" alt="Projects"></picture>
 <p align="center">
-  <a href="https://github.com/IIDEV1?tab=repositories"><b>Explore my repositories ↗</b></a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/IIDEV1/ML">ML notebooks</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/IIDEV1/Oyno">Mobile development</a>
+<a href="https://github.com/IIDEV1/Oyno"><picture><source media="(prefers-color-scheme: dark)" srcset="ethno-dark-c-oyno.svg"><img src="ethno-light-c-oyno.svg" width="190" alt="Oyno — Flutter app"></picture></a> &nbsp;
+<a href="https://github.com/IIDEV1/E-SU-Frontend"><picture><source media="(prefers-color-scheme: dark)" srcset="ethno-dark-c-esu.svg"><img src="ethno-light-c-esu.svg" width="190" alt="E-SU — React and TypeScript"></picture></a> &nbsp;
+<a href="https://github.com/IIDEV1/ML"><picture><source media="(prefers-color-scheme: dark)" srcset="ethno-dark-c-ml.svg"><img src="ethno-light-c-ml.svg" width="190" alt="ML — Python notebooks"></picture></a> &nbsp;
 </p>
 
-### A little about me
+<br>
 
-I'm Islam. I build web and mobile projects and explore machine learning through hands-on practice. My repositories span React and TypeScript interfaces, Flutter apps, Python and data notebooks.
+<picture><source media="(prefers-color-scheme: dark)" srcset="ethno-dark-footer.svg"><img src="ethno-light-footer.svg" width="100%" alt="Көз коркок, кол баатыр. The eyes fear, the hands do."></picture>
 
-**Currently exploring:** data analysis, preprocessing pipelines, regression and classification — alongside web development and operating systems coursework.
-
-<img src="toolbox.svg" width="100%" alt="Toolbox: React, TypeScript, JavaScript, HTML, CSS, Flutter and Dart. Learning and data: Python, Pandas, Jupyter and machine learning." />
-
-### Selected work
-
-<p>
-  <a href="https://github.com/IIDEV1/Oyno"><img src="oyno.svg" width="49%" alt="Oyno — Flutter and Dart cross-platform app project. Open repository." /></a>
-  <a href="https://github.com/IIDEV1/E-SU-Frontend"><img src="esu.svg" width="49%" alt="E-SU Frontend — React, TypeScript, Vite and React Query. Open repository." /></a>
-</p>
-<p>
-  <a href="https://github.com/IIDEV1/Promo-Shar"><img src="promo.svg" width="49%" alt="Promo-Shar — React and JavaScript web project. Open repository." /></a>
-  <a href="https://github.com/IIDEV1/ML"><img src="ml.svg" width="49%" alt="Machine learning — seven Python and Jupyter practical studies: EDA, preprocessing, regression and classification. Open repository." /></a>
-</p>
-
-<details>
-<summary><b>Inside my learning lab</b></summary>
-
-- [Machine learning](https://github.com/IIDEV1/ML) — seven practical studies using the Telco Customer Churn dataset, with notebooks and reports.
-- [Math & data practice](https://github.com/IIDEV1/math_ml) — Pandas exercises and Google Colab notebooks.
-- [Operating systems](https://github.com/IIDEV1/OS) — coursework and Python practice.
-
-</details>
-
-<br />
-
-<a href="https://github.com/IIDEV1?tab=repositories"><img src="footer.svg" width="100%" alt="Always building. Always becoming. Explore my repositories." /></a>
+<sub>Visuals adapted from [Aymanchk](https://github.com/Aymanchk/Aymanchk).</sub>
